@@ -1,5 +1,5 @@
 # File-Walker
-A program that recursively walks through a directory tree and counts number of word occurences
+A program that recursively walks through a directory tree and counts number of word occurences and their locations in files.
 The words are sorted alphabetically, and for each word the
 occurrences are grouped by file name which are also sorted. Within a single
 file, the occurrences are sorted, first by line, then by column.
